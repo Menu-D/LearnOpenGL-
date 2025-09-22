@@ -1,0 +1,66 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+build-*/
+Debug/
+Release/
+x64/
+x86/
+*.dir/
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*~
+*.swp
+*.bak
+
+# Dependencies (if vendored manually)
+deps/
+third_party/
+
+# GLAD/GLFW generated files (if generated locally instead of vendored)
+glad.c
+glad.o
