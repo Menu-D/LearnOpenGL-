@@ -2,3 +2,4 @@
 
 This repository is a collection of my experiments and practice projects while learning **OpenGL**.  
 The goal is to understand the fundamentals of computer graphics, rendering pipelines, and modern OpenGL techniques step by step.
+Any work that I do related to OpenGL it will be in this repository except actual projects. 
